@@ -305,10 +305,3 @@ This feature uses Python's `min()` and `max()` functions.
 * Swagger UI
 
  
----
-
-# Author
-
-Kavya
-FastAPI Internship Training — Day 1
-
